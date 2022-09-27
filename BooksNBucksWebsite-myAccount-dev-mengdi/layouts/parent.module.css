@@ -1,0 +1,23 @@
+.logoText {
+  color: white;
+  font-weight: 700;
+  margin-right: 10px;
+}
+
+.navItems {
+  text-decoration: none !important;
+  display: flex !important;
+  align-items: center !important;
+  padding: 8px 16px !important;
+  color: white !important;
+}
+
+.navItems:hover {
+  text-decoration: none !important;
+  color: white !important;
+}
+
+.active {
+  color: white !important;
+  background-color: #ba0828 !important;
+}

@@ -1,0 +1,14 @@
+.student_select_container {
+  max-width: 800px;
+  margin-left: 30px;
+}
+
+.student_select {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+.student_select h2 {
+  margin-left: 20px;
+}
